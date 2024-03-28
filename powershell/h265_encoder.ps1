@@ -3,7 +3,7 @@ $sourceDirectory = "C:\Folder\To\Convert\Here"
 $workingFileName = "_fileprocessing.mp4"
 
 # Define the ffmpeg path
-$ffmpegPath = "C:\Users\Braden\Downloads\ffmpeg-master-latest-win64-gpl\bin\ffmpeg.exe"
+$ffmpegPath = "C:\Path\To\ffmpeg-master-latest-win64-gpl\bin\ffmpeg.exe"
 
 # Function to convert video to H.265 using ffmpeg
 function ConvertToH265($videoFile) {
